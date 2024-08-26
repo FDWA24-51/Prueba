@@ -11,6 +11,14 @@
     background-color: aquamarine;
 }
 
+#lateral {
+    background-color: chocolate;
+}
+
+#contenido {
+    background-color: chartreuse;
+}
+
 #pie_pagina {
     background-color: brown;
 }
