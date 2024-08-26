@@ -10,6 +10,7 @@
     text-align: center;
     text-transform: uppercase;
     text-decoration: dashed;
+    height: 50px;
 }
 
 #contendor-info {
@@ -18,10 +19,14 @@
 
 #lateral {
     background-color: chocolate;
+    width: 400px;
+    height: 200px;
 }
 
 #contenido {
     background-color: chartreuse;
+    width: 400px;
+    height: 200px;
 }
 
 #pie_pagina {
