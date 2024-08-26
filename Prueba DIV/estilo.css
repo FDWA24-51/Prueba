@@ -5,6 +5,9 @@
 
 #encabezado {
     background-color: beige;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: dashed;
 }
 
 #contendor-info {
