@@ -4,6 +4,9 @@
     width: 800px;
     height: 1000px;
     margin: 0;
+    -webkit-box-shadow: 6px 7px 74px -3px rgba(237,227,31,1);
+-moz-box-shadow: 6px 7px 74px -3px rgba(237,227,31,1);
+box-shadow: 6px 7px 74px -3px rgba(237,227,31,1);
 }
 
 #encabezado {
