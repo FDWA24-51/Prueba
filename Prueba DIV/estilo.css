@@ -1,6 +1,8 @@
 #principal {
     background-color: cadetblue;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 800px;
+    height: 1000px;
 }
 
 #encabezado {
